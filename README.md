@@ -30,4 +30,4 @@ echo "hello" , " " , $name;
   
 
 4. **Navigate to ```http://localhost/tuts```**
-5. You should see ```hello pres``` on your browser
+5. You should see ```hello pres``` displayed on your browser
