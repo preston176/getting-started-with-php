@@ -43,4 +43,7 @@ $LastName = "doe";
 ```
 
 ## Note
-- at the end of every statement, there
+- at the end of every statement, there must be a ```;``` semicolon
+
+
+[chapter2.md](./chapter2.md)
